@@ -24,15 +24,6 @@ I’m an enthusiastic theoretical computer science student, passionate about lea
 
 ---
 
-###  GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?user=Theo607&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Mateusz's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?user=Theo607&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 <div align="center">
   <i>"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra</i>
 </div>
